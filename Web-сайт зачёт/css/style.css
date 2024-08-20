@@ -1,0 +1,75 @@
+h1 {
+    color: rgb(139, 0, 19);
+    position: relative;
+    float:left;
+    top: -20px;
+	left: 330px;
+}
+h2 {
+    color: darkcyan;
+    position: relative;
+    float:left;
+    top: -40px;
+	left: 350px;
+}
+ul {
+	position: relative;
+	left: -90px;
+	width: 130%;
+}
+ol {
+	position: relative;
+	left: -150px;
+}
+#menu {
+	height: 30px;
+	margin-bottom: 15px;
+}
+#menu table {
+	height:100%;
+	position: relative;
+	left:320px;
+}
+#menu td {
+	vertical-align: middle;
+	padding: 0 10px;
+}
+#header {
+	height: 90px;	
+}
+#content {
+	width: 780px;
+	margin-left: 220px;
+	padding-right:10px;
+	position: relative;
+	left: -200px;
+	text-align: justify;
+	letter-spacing: normal;
+	line-height: 1 px ;
+}
+a {
+    color: darkgreen;
+}
+body {
+    background-color: rgb(136, 154, 154);
+	position: relative;
+	float:left;
+	left: 350px;
+}
+#ris img {
+	width:200px;
+	height:150px;
+	margin: 3px;
+}
+img{
+    width: 400px;
+    position:relative;
+    top:20px;
+    left:0
+    
+}
+.big_size {
+    font-size: 1.2rem;
+    position:relative;
+    left:300px;
+}
